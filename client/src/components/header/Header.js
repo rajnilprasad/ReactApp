@@ -68,7 +68,7 @@ export default class Header extends Component {
                   jumpTo('/dashboard')
                 }}
               >
-                Shop City
+                SHOP CITY
               </div>
             </div>
             <div className={styles.mid}>
